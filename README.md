@@ -1,5 +1,5 @@
 # 📺 Netflix Data Analysis Project
-
+This Project is done under the guidance of Unified Mentor and this is the project which i have done while i was in Internship with Unified Mentor
 This project focuses on cleaning, analyzing, and visualizing Netflix's dataset using Python.
 
 ---
